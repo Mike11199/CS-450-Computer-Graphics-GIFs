@@ -6,7 +6,7 @@
 
 # Final Project
 
--WIP
+- WIP
 
 # Texture Loading with Lighting
 
