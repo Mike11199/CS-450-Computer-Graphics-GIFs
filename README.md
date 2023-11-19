@@ -1,6 +1,7 @@
 # CS 450 -Computer Graphics- Project GIFs (No Code)
 
-- No code - only GIFs of some of my project work in C++/ OpenGL for this class.
+- No code - only GIFs.
+- Projects coded in C++/ OpenGL demonstrating lighting, textures, keytime animations, and object transformations.
 - GIFs are bad quality as GitHub limits each to 10 MB.
 
 # Texture Loading with Lighting
@@ -20,3 +21,5 @@
 ![lighting_optimized](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/a49ef7c9-48d3-4bd6-88fe-017aaa363d41)
 
 # Transformations
+
+![transformations_optimized](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/a19d6a65-18db-4808-824b-0651cf94e79e)
