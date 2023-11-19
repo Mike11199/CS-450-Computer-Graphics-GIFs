@@ -1,6 +1,7 @@
 # CS-450-Computer-Graphics-GIFs
 
 - No code - only GIFs of some of my project work in C++/ OpenGL for this class.
+- GIFs are bad quality as GitHub limits each to 10 MB.
 
 # Texture Loading with Lighting
 
