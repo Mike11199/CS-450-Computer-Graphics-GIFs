@@ -17,5 +17,6 @@
 
 # Lighting
 
+![lighting_optimized](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/a49ef7c9-48d3-4bd6-88fe-017aaa363d41)
 
 # Transformations
