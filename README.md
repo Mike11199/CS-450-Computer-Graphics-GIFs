@@ -4,6 +4,10 @@
 - Projects coded in C++/ OpenGL demonstrating lighting, textures, keytime animations, and object transformations.
 - GIFs are bad quality as GitHub limits each to 10 MB.
 
+# Final Project
+
+-WIP
+
 # Texture Loading with Lighting
 
 ![texture_lighting](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/118ba57c-72a7-4004-9a2d-0b452cfa00ec)
