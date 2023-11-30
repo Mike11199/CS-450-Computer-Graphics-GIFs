@@ -8,6 +8,9 @@
 
 - WIP
 
+![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/0168957a-d35d-43cc-b388-58e6058fa172)
+
+
 # Texture Loading with Lighting
 
 ![texture_lighting](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/118ba57c-72a7-4004-9a2d-0b452cfa00ec)
