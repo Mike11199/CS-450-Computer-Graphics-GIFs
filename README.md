@@ -10,6 +10,7 @@
 
 ![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/0168957a-d35d-43cc-b388-58e6058fa172)
 
+![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/acdb53e3-2bc3-4b6d-a5cc-5f4a90ce6a19)
 
 # Texture Loading with Lighting
 
