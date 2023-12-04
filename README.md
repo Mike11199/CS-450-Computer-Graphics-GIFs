@@ -9,6 +9,8 @@
 - WIP
 ![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/04571333-3aca-4206-881a-8a15f68d990a)
 
+![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/8b1251ef-4135-4f07-a719-4eecc918c2c7)
+
 ![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/0168957a-d35d-43cc-b388-58e6058fa172)
 
 ![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/acdb53e3-2bc3-4b6d-a5cc-5f4a90ce6a19)
