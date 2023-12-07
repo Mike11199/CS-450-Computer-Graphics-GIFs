@@ -13,7 +13,7 @@
 - Used Kepler's third law to calculate realistic orbital periods for planets based on their orbital radii.
 
 
-![Earth Clouds Gif](https://github.com/Mike11199/GIFs/blob/main/EarthClouds.gif)
+![Earth Clouds Gif](https://github.com/Mike11199/GIFs/blob/main/EarthClouds_%20new.gif)
 
 ![Solar System1](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/65cbd665-51e0-4e54-9e95-4cfef91b79a0)
 
