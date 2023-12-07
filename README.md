@@ -6,9 +6,10 @@
 
 # Final Project
 
-- WIP
+- https://www.youtube.com/watch?v=ZvKFpJYDZkw
+- A Solar System model coded in C++ in OpenGL, using fragment, vertex shaders, 8k planet textures and lighting. 
 - Added 150 random asteroids to main asteroid belt and another 150 for kuiper belt, 8 planets, Pluto, 4 moons, and a galaxy skybox with vertex and fragment shaders.
-- Added clouds to earth by blending two vec4 textures (rgba) textures together in the fragment shader.
+- Added clouds to earth by blending two vec4 textures (rgba) textures together in the fragment shader.  Used a vec2 variable to translate the clouds over the Earth's surface.
 - Used Kepler's third law to calculate realistic orbital periods for planets based on their orbital radii.
 
 ![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/37a09f28-514f-495c-9836-3bfc32f3280e)
