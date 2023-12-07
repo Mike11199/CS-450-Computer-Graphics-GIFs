@@ -15,6 +15,8 @@
 
 ![](https://github.com/Mike11199/GIFs/blob/main/EarthClouds.gif)
 
+![Solar System1](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/65cbd665-51e0-4e54-9e95-4cfef91b79a0)
+
 
 ![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/37a09f28-514f-495c-9836-3bfc32f3280e)
 
