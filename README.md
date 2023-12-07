@@ -9,6 +9,8 @@
 - WIP
 - Added 100 random asteroids, 8 planets, Pluto, 4 moons, and a galaxy skybox with vertex and fragment shaders.
 
+![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/70d05c0e-7198-4896-874f-a4a3d15aca74)
+
 ![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/29b3d8fc-bcce-4296-9e6f-62c1885e053b)
 
 ![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/02c56eb5-5c52-43fd-bc60-815185140b14)
