@@ -12,6 +12,10 @@
 - Added clouds to earth by blending two vec4 textures (rgba) textures together in the fragment shader.  Used a vec2 variable to translate the clouds over the Earth's surface.
 - Used Kepler's third law to calculate realistic orbital periods for planets based on their orbital radii.
 
+
+![](https://github.com/Mike11199/GIFs/blob/main/EarthClouds.gif)
+
+
 ![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/37a09f28-514f-495c-9836-3bfc32f3280e)
 
 ![image](https://github.com/Mike11199/CS-450-Computer-Graphics-GIFs/assets/91037796/70d05c0e-7198-4896-874f-a4a3d15aca74)
