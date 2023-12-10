@@ -11,6 +11,7 @@
 - Added 150 random asteroids to main asteroid belt and another 150 for kuiper belt, 8 planets, Pluto, 4 moons, and a galaxy skybox with vertex and fragment shaders.
 - Added clouds to earth by blending two vec4 textures (rgba) textures together in the fragment shader.  Used a vec2 variable to translate the clouds over the Earth's surface.
 - Used Kepler's third law to calculate realistic orbital periods for planets based on their orbital radii.
+- There is an error where the asteroid belts do not follow Kepler's law which I might fix later - but this shows how things would unrealistically rotate with improper phsyics.
 
 
 ![Earth Clouds Gif](https://github.com/Mike11199/GIFs/blob/main/EarthClouds_%20new.gif)
